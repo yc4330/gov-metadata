@@ -1,0 +1,219 @@
+"name","Organization.name","n","mean_score"
+"General Services Administration","GSA,FAS,Technology Transformation Service",30,61.4333333333333
+"Department Of Labor","Office of the Chief Information Officer",21,41.3809523809524
+"Department Of Justice","Office of Justice Programs",16,62.375
+"Department Of The Treasury","Comptroller of the Currency",16,69
+"Department Of The Interior","U.S. Geological Survey",13,22.3846153846154
+"Department Of The Treasury","Bureau of the Public Debt",13,15
+"Department Of Health And Human Services","Centers for Disease Control and Prevention",12,59.1666666666667
+"Executive Office Of The President","Executive Office of the President",11,81.3636363636364
+"Department Of Commerce","National Institute of Standards and Technology",10,51.4
+"Department Of The Treasury","Department of the Treasury - FMS",9,12
+"Department Of Commerce","International Trade Administration",8,52
+"Department Of Health And Human Services","Centers for Medicare and Medicaid Services",8,28.75
+"Department Of Health And Human Services","Office of the Secretary",8,63.5
+"Department Of Health And Human Services","National Library of Medicine, NIH",7,42.8571428571429
+"Department Of Health And Human Services","Substance Abuse and Mental Health Services Administration",7,52.8571428571429
+"Department Of Homeland Security","Cybersecurity and Infrastructure Security Agency",7,47.2857142857143
+"Department Of Justice","Department of Justice",7,42.7142857142857
+"Department Of Health And Human Services","U. S. Food and Drug Administration",6,56.6666666666667
+"Department Of Justice","Drug Enforcement Administration",6,29.3333333333333
+"General Services Administration","GSA, IC, OGP Web Portfolio",6,61.5
+"General Services Administration","General Services Administration",6,46
+"Department Of Energy","Oak Ridge National Laboratory",5,29.2
+"Department Of Health And Human Services","Administration for Community Living",5,20
+"Department Of Health And Human Services","Office of the Assistant Secretary for Health, Office of the Secretary",5,48
+"Department Of Homeland Security","Headquarters",5,70.8
+"Department Of Health And Human Services","Agency for Healthcare Research and Quality",4,31
+"Department Of Homeland Security","Federal Emergency Management Agency",4,32.75
+"Department Of Justice","Civil Rights Division",4,57.75
+"Executive Office Of The President","Office of Management and Budget",4,67.5
+"Executive Office Of The President","White House Office",4,85
+"Department Of Commerce","Census Bureau",3,59
+"Department Of Energy","OSTI",3,33.3333333333333
+"Department Of Energy","US Department of Energy, Office of the CIO",3,92
+"Department Of Health And Human Services","Health Resources and Services Administration",3,23
+"Department Of Health And Human Services","Office of Disease Prevention and Health Promotion, Office of the Secretary",3,25.6666666666667
+"Department Of Homeland Security","U.S. Customs and Border Protection",3,53.6666666666667
+"Department Of Homeland Security","USCIS",3,72
+"Department Of Justice","Federal Bureau of Investigation",3,46.3333333333333
+"Department Of Justice","Office of the Chief Information Officer",3,48.6666666666667
+"Department Of The Interior","Department of the Interior",3,59
+"Department Of The Interior","Minerals Management Service",3,15.3333333333333
+"Department Of The Treasury","Department of the Treasury - IRS",3,23.3333333333333
+"Department Of The Treasury","Department of the Treasury - OCIO",3,56.3333333333333
+"Executive Office Of The President","Office of Administration",3,92
+"General Services Administration","GSA, FAS, System for Award Management",3,15.3333333333333
+"General Services Administration","GSA, IC, Acquisition",3,17.6666666666667
+"General Services Administration","GSA, IDI, ECAS II",3,51.3333333333333
+"Department Of Commerce","Department of Commerce",2,73
+"Department Of Commerce","National Oceanic and Atmospheric Administration",2,34.5
+"Department Of Commerce","National Telecommunications and Information Administration",2,27
+"Department Of Energy","National Renewable Energy Laboratory",2,57.5
+"Department Of Energy","Office of Energy Efficiency and Renewable Energy",2,46
+"Department Of Energy","Pacific Northwest National Laboratory",2,31
+"Department Of Health And Human Services","Administration for Children and Families",2,53.5
+"Department Of Health And Human Services","Assistant Secretary for Preparedness and Response Office of the Secretary",2,77
+"Department Of Health And Human Services","National Cancer Institute, NIH",2,58
+"Department Of Health And Human Services","National Institute of Neurological Disorders and Stroke",2,31
+"Department Of Health And Human Services","National Institutes of Health",2,54
+"Department Of Health And Human Services","Office of Public Health and Science, Office on Women's Health",2,23
+"Department Of Homeland Security","Federal Law Enforcement Training Center",2,27
+"Department Of Homeland Security","Office of Public Affairs",2,23
+"Department Of Justice","Bureau of Alcohol, Tobacco, Firearms and Explosives",2,15.5
+"Department Of Justice","Institute for Intergovernmental Research",2,69
+"Department Of Labor","Bureau of International Labor Affairs",2,62
+"Department Of The Interior","Bureau of Indian Affairs",2,15
+"Department Of The Interior","National Park Service",2,42
+"Department Of The Treasury","Department of the Treasury - DO",2,73
+"Department Of The Treasury","Department of the Treasury - U.S. Mint",2,92
+"Department Of The Treasury","TCS (IRS)",2,23
+"Executive Office Of The President","United States Digital Service",2,85
+"General Services Administration","GSA, IQ, eRulemaking",2,15
+"General Services Administration","General Services Administration ",2,61.5
+"Department Of Commerce","Bureau of Economic Analysis",1,23
+"Department Of Commerce","Bureau of Industry and Security",1,23
+"Department Of Commerce","Economic Development Administration",1,85
+"Department Of Commerce","Minority Business Development Agency",1,69
+"Department Of Commerce","NASA GSFC",1,23
+"Department Of Commerce","NOAA Climate Program Office",1,62
+"Department Of Commerce","NOAA Coastal Services Center",1,15
+"Department Of Commerce","NOAA Fisheries",1,77
+"Department Of Commerce","NOAA/NCDC",1,77
+"Department Of Commerce","NOAA/National Hurricane Center",1,92
+"Department Of Commerce","NOAA/Space Weather Prediction Center",1,8
+"Department Of Commerce","NWS/OPS33",1,85
+"Department Of Commerce","National Executive Committee for Space-Based PNT",1,23
+"Department Of Commerce","National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology",1,8
+"Department Of Commerce","National Science and Technology Council",1,15
+"Department Of Commerce","National Weather Service",1,23
+"Department Of Commerce","Office of the Chief Information Officer",1,69
+"Department Of Commerce","Space Environment Center W/NP9",1,23
+"Department Of Commerce","TCD / BIS / Dept of Commerce",1,8
+"Department Of Commerce","U. S. National Ice Center",1,31
+"Department Of Commerce","USPTO",1,38
+"Department Of Energy","Battelle Pacific Northwest National Laboratory",1,15
+"Department Of Energy","Bonneville Power Administration",1,46
+"Department Of Energy","Brookhaven National Laboratory",1,23
+"Department Of Energy","Department of Energy",1,69
+"Department Of Energy","Department of Energy Bulding Energy Codes Program",1,23
+"Department Of Energy","Fermi National Accelerator Laboratory",1,15
+"Department Of Energy","Idaho National Laboratory",1,92
+"Department Of Energy","Lawrence Berkeley National Laboratory",1,92
+"Department Of Energy","Lawrence Livermore National Laboratory",1,23
+"Department Of Energy","Los Alamos National Laboratory",1,23
+"Department Of Energy","National Energy Research Scientific Computing Center",1,77
+"Department Of Energy","National Nuclear Security Administration, National Security Technologies, LLC",1,85
+"Department Of Energy","ORAU",1,77
+"Department Of Energy","Office of Electricity Delivery and Energy Reliability",1,23
+"Department Of Energy","Office of Nuclear Energy",1,15
+"Department Of Energy","Research and Special Programs Administration / Volpe",1,15
+"Department Of Energy","Sandia National Laboratories",1,92
+"Department Of Energy","Savannah River National Lab",1,92
+"Department Of Energy","The National Isotope Development Center ",1,23
+"Department Of Health And Human Services","Administration for Strategic Preparedness and Response",1,69
+"Department Of Health And Human Services","Assistant Secretary for Financial Resources, Office of the Secretary",1,15
+"Department Of Health And Human Services","Assistant Secretary for Planning and Evaluation, Office of the Secretary",1,15
+"Department Of Health And Human Services","Assistant Secretary for Preparedness and Response, Office of the Secretary",1,8
+"Department Of Health And Human Services","Department of Health and Human Services",1,31
+"Department Of Health And Human Services","Department of Health and Human Services ",1,62
+"Department Of Health And Human Services","FDA, Center for Tobacco Products",1,23
+"Department Of Health And Human Services","Indian Health Service / Office of IT",1,62
+"Department Of Health And Human Services","National Center for Advancing Translational Sciences",1,85
+"Department Of Health And Human Services","National Heart, Lung & Blood Institute, NIH",1,54
+"Department Of Health And Human Services","National Institute on Alcohol Abuse and Alcoholism, NIH",1,31
+"Department Of Health And Human Services","National Institute on Drug Abuse, NIH",1,77
+"Department Of Health And Human Services","National Institutes of Diabetes and Digestive and Kidney Diseases, NIH",1,77
+"Department Of Health And Human Services","National Institutes on Aging, NIH",1,23
+"Department Of Health And Human Services","Office of Global Affairs, Office of the Secretary",1,85
+"Department Of Health And Human Services","Office of Grants, Division of Workforce Development",1,15
+"Department Of Health And Human Services","Office of the National Coordinator, Office of the Secretary",1,31
+"Department Of Health And Human Services","Office of the Surgeon General, Office of the Secretary",1,69
+"Department Of Health And Human Services","Program Support Center, Office of the Secretary",1,85
+"Department Of Health And Human Services","SAMHSA Office of Communications",1,54
+"Department Of Homeland Security","Department of Homeland Security, Office of the Chief Information Officer",1,23
+"Department Of Homeland Security","Office for Domestic Preparedness",1,15
+"Department Of Homeland Security","Transportation Security Administration",1,23
+"Department Of Homeland Security","U.S. Immigration and Customs Enforcement",1,54
+"Department Of Homeland Security","US-CERT",1,23
+"Department Of Homeland Security","US-VISIT",1,54
+"Department Of Homeland Security","United States Secret Service",1,23
+"Department Of Homeland Security","United States Secret Service   ",1,23
+"Department Of Justice","Criminal Division",1,38
+"Department Of Justice","Department of Justice, Civil Division",1,54
+"Department Of Justice","Department of Justice, National Institute of Corrections",1,23
+"Department Of Justice","Department of Justice, Office of e-Government",1,15
+"Department Of Justice","FBI CJIS",1,38
+"Department Of Justice","Internet Crime Complaint Center",1,31
+"Department Of Justice","National Virtual Translation Center",1,85
+"Department Of Justice","Office of Justice Programs ",1,69
+"Department Of Justice","RCFL",1,85
+"Department Of Justice","Terrorist Screening Center",1,85
+"Department Of Justice","U.S Immigration and Customs Enforcement",1,38
+"Department Of Justice","U.S. Department of Justice, BI, Domestic Security Alliance Council (DSAC)",1,85
+"Department Of Justice","U.S. Department of Justice, National Security Division",1,54
+"Department Of Justice","U.S. Department of Justice, U. S. NATIONAL CENTRAL BUREAU of INTERPOL (INTERPOL)",1,69
+"Department Of Labor","Employment and Training Administration (ETA) - Office of Job Corps",1,38
+"Department Of Labor","Mine Safety and Health Administration",1,23
+"Department Of Labor","Office of the Assistant Secretary for Administration & Management",1,92
+"Department Of The Interior","Advisory Committee on Water Information",1,8
+"Department Of The Interior","Aviation Management Directorate",1,8
+"Department Of The Interior","Bureau of Land Management - Utah Fire Info Domain",1,62
+"Department Of The Interior","Bureau of Reclamation",1,15
+"Department Of The Interior","DOI - Bureau of Trust Funds Administration",1,46
+"Department Of The Interior","National Business Center",1,77
+"Department Of The Interior","National Fire Plan Operations & Reporting System",1,8
+"Department Of The Interior","Office of Surface Mining",1,15
+"Department Of The Interior","Office of the Chief Information Officer",1,77
+"Department Of The Interior","U.S. DEPARTMENT OF INTERIOR / OIG",1,23
+"Department Of The Interior","US Geological Survey",1,15
+"Department Of The Interior","USGS/Denver Federal Center",1,15
+"Department Of The Interior","Yosemite National Park",1,15
+"Department Of The Treasury","Bureau of the Fiscal Service",1,15
+"Department Of The Treasury","CDFI",1,23
+"Department Of The Treasury","Citizens Coinage Advisory Committee (Mint)",1,8
+"Department Of The Treasury","Department of the Treasury",1,23
+"Department Of The Treasury","Department of the Treasury / FSOC",1,77
+"Department Of The Treasury","Departmental Offices ",1,69
+"Department Of The Treasury","OCIO",1,77
+"Department Of The Treasury","Office of Financial Research (OFR)",1,31
+"Department Of The Treasury","Special IG for Pandemic Recovery",1,23
+"Department Of The Treasury","Special Inspector General for the Troubled Asset Relief Program",1,23
+"Department Of The Treasury","TCS",1,69
+"Department Of The Treasury","Treasury Inspector General for Tax Administration",1,23
+"Executive Office Of The President","Council on Environmental Quality",1,15
+"Executive Office Of The President","Domestic Policy Council",1,31
+"Executive Office Of The President","National Nanotechnology Coordination Office",1,15
+"Executive Office Of The President","National Quantum Coordination Office (NQCO)",1,92
+"Executive Office Of The President","Office of National Drug Control Policy",1,85
+"Executive Office Of The President","Office of Science and Technology Policy - White House",1,85
+"Executive Office Of The President","United States Trade Representative",1,46
+"Executive Office Of The President","White House",1,92
+"General Services Administration","400 Years of African American History Commission",1,31
+"General Services Administration","Civilian Board of Contract Appeals",1,15
+"General Services Administration","GSA Office of Inspector General",1,31
+"General Services Administration","GSA, CIO.GOV",1,62
+"General Services Administration","GSA, FAS, Acquisition",1,69
+"General Services Administration","GSA, FAS, ClearPath",1,15
+"General Services Administration","GSA, FAS, ECPIC",1,8
+"General Services Administration","GSA, FAS, FPDS",1,23
+"General Services Administration","GSA, FAS, SASy",1,8
+"General Services Administration","GSA, IC, FAI",1,23
+"General Services Administration","GSA, IC, OGP Web Portolio",1,15
+"General Services Administration","GSA, IC, OGP WebPortfolio",1,23
+"General Services Administration","GSA, IC, ROCIS",1,8
+"General Services Administration","GSA, IDI, EAS-SF",1,15
+"General Services Administration","GSA, IDI, Enterprise Application Services",1,15
+"General Services Administration","GSA, IDI,EAS",1,0
+"General Services Administration","GSA, IQ, CAT",1,54
+"General Services Administration","GSA, IQ, Clearpath",1,15
+"General Services Administration","GSA, IQ, IAE",1,15
+"General Services Administration","GSA, IQ-ESRS-FSRS",1,8
+"General Services Administration","GSA, IQ-FPDS-FPDS Portal",1,15
+"General Services Administration","GSA, IQ-FSD-FSD Portal",1,15
+"General Services Administration","GSA, IQ-GSAAdvantage-Main",1,31
+"General Services Administration","GSA, IQ-SASy-GSAAuctions",1,15
+"General Services Administration","GSA, OGP, Web Portfolio",1,54
+"General Services Administration","GSA, TTS, Federalist",1,69
+"General Services Administration","Office of Government-wide Policy",1,62
+"General Services Administration","TTS Public Benefits Studio",1,23
